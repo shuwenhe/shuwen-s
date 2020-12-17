@@ -1,1 +1,2 @@
 # shuwen-s is an efficient programming language
+You can write web, desktop software, database, operating system in s language, you can write the front-end interface can also write back-end server business logic, you can also write system software such as databases, operating systems and other system software.
