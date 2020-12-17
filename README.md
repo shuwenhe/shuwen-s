@@ -1,1 +1,1 @@
-# makefile
+# shuwen-s is an efficient programming language
